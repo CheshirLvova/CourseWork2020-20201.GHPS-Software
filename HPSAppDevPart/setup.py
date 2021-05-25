@@ -40,4 +40,4 @@ from idlelib.tooltip import Hovertip
 ## для можливості обирати дати з календаря
 from tkcalendar import Calendar
 
-setup(windows=['HPSAppGUITEST.pyw'])
+setup(windows=['HPSApp.pyw'])
